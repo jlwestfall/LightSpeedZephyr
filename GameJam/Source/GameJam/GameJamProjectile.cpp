@@ -26,13 +26,13 @@ AGameJamProjectile::AGameJamProjectile()
 
 	UStaticMeshComponent* SphereMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Bullet"));
 	SphereMesh->SetupAttachment(CollisionComp);
-	static ConstructorHelpers::FObjectFinder<UStaticMesh> CylinderAsset(TEXT("/Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder"));
+	static ConstructorHelpers::FObjectFinder<UStaticMesh> StaticMesh(TEXT("/Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere"));
 	
-	if (CylinderAsset.Succeeded())
+	if (StaticMesh.Succeeded())
 	{
-		SphereMesh->SetStaticMesh(CylinderAsset.Object);
-		SphereMesh->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
-		SphereMesh->SetWorldScale3D(FVector(1.0f));
+		SphereMesh->SetStaticMesh(StaticMesh.Object);
+		SphereMesh->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f)); 
+		SphereMesh->SetWorldScale3D(FVector(.5f));
 	}
 
 

@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameJam-3903.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJam.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamCharacter.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamGameMode.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamHUD.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamProjectile.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\PlayerPawn.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJam.init.gen.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamCharacter.gen.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamGameMode.gen.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamHUD.gen.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\GameJamProjectile.gen.cpp.obj"
+"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\GameJam\PlayerPawn.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameJam\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-3903.lib"

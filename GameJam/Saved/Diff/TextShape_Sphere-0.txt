@@ -1,0 +1,35 @@
+Begin Object Class=/Script/Engine.StaticMesh Name="Shape_Sphere"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_6"
+   End Object
+   Begin Object Class=/Script/Engine.NavCollision Name="NavCollision_23"
+   End Object
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_8"
+   End Object
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData_21"
+   End Object
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_6"
+   End Object
+   Begin Object Name="NavCollision_23"
+   End Object
+   Begin Object Name="BodySetup_8"
+      AggGeom=(SphereElems=((Center=(X=0.000000,Y=0.000004,Z=50.000000),Radius=50.000004)))
+      PhysicsType=PhysType_Kinematic
+      DefaultInstance=(ObjectType=ECC_WorldStatic,CollisionProfileName="BlockAll")
+   End Object
+   Begin Object Name="AssetImportData_21"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   SourceModels(0)=(BuildSettings=(bGenerateLightmapUVs=False),ReductionSettings=(HardAngleThreshold=45.000000),ScreenSize=1.000000)
+   SectionInfoMap=(Map=((0, ())))
+   OriginalSectionInfoMap=(Map=((0, ())))
+   StaticMaterials(0)=(MaterialInterface=Material'"/Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall"',MaterialSlotName="M_Basic_Wall",UVChannelData=(bInitialized=True,LocalUVDensities[0]=188.018738,LocalUVDensities[1]=191.049042))
+   LightmapUVDensity=191.049042
+   LightMapResolution=32
+   LightMapCoordinateIndex=1
+   AssetImportData=AssetImportData'"AssetImportData_21"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_6"'
+   ExtendedBounds=(Origin=(X=0.000000,Y=0.000004,Z=50.000000),BoxExtent=(X=50.000000,Y=50.000000,Z=50.000000),SphereRadius=50.000004)
+End Object

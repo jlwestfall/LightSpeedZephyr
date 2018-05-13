@@ -1,0 +1,1347 @@
+﻿Log file open, 05/12/18 21:08:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameJam
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1750345671) SRandInit(1750345671).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312972
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.186s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Binaries/Win64/UE4Editor-GameJam-2542.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-0DCNNK4 (192.168.1.8:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.13-01.08.19:950][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.13-01.08.19:950][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.13-01.08.20:015][  0]LogInit: Computer: DESKTOP-0DCNNK4
+[2018.05.13-01.08.20:015][  0]LogInit: User: Jonny
+[2018.05.13-01.08.20:015][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.13-01.08.20:015][  0]LogInit: High frequency timer resolution =3.906271 MHz
+[2018.05.13-01.08.20:015][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.13-01.08.20:015][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.13-01.08.20:015][  0]LogMemory: Process Physical Memory: 274.44 MB used, 274.44 MB peak
+[2018.05.13-01.08.20:015][  0]LogMemory: Process Virtual Memory: 264.74 MB used, 264.74 MB peak
+[2018.05.13-01.08.20:015][  0]LogMemory: Physical Memory: 5850.20 MB used,  10515.36 MB free, 16365.55 MB total
+[2018.05.13-01.08.20:015][  0]LogMemory: Virtual Memory: 697.80 MB used,  10515.36 MB free, 134217728.00 MB total
+[2018.05.13-01.08.20:042][  0]LogInit: Using OS detected language (en-US).
+[2018.05.13-01.08.20:042][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.13-01.08.20:169][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.13-01.08.20:775][  0]LogStreaming: Display: Took  0.733s to EndInitTextLocalization.
+[2018.05.13-01.08.20:776][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.13-01.08.20:939][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.13-01.08.20:939][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.13-01.08.24:970][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.13-01.08.25:063][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.05.13-01.08.25:063][  0]LogD3D11RHI:       2997/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.13-01.08.25:065][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.13-01.08.25:065][  0]LogD3D11RHI:       0/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.13-01.08.25:066][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.13-01.08.25:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.13-01.08.25:077][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.13-01.08.25:077][  0]LogWindows: EnumDisplayDevices:
+[2018.05.13-01.08.25:077][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.05.13-01.08.25:078][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.05.13-01.08.25:078][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.05.13-01.08.25:078][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.05.13-01.08.25:078][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.13-01.08.25:078][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.05.13-01.08.25:078][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.13-01.08.25:078][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.13-01.08.25:078][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2018.05.13-01.08.25:127][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.13-01.08.25:127][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.13-01.08.25:128][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.13-01.08.25:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.13-01.08.25:311][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Intermediate/Shaders/WorkingDirectory/2528/).
+[2018.05.13-01.08.25:311][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonny/AppData/Local/Temp/UnrealShaderWorkingDir/C46C0B4B47F1CC07F7C8099C70C6B679/'.
+[2018.05.13-01.08.25:636][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.13-01.08.25:657][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.13-01.08.25:678][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.13-01.08.25:700][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.13-01.08.25:737][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.13-01.08.25:758][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.13-01.08.25:780][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.13-01.08.25:804][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.13-01.08.25:815][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.13-01.08.25:836][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.13-01.08.25:855][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.13-01.08.25:874][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.13-01.08.25:892][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.13-01.08.25:911][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.13-01.08.25:930][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.13-01.08.25:967][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.13-01.08.25:967][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.13-01.08.26:001][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.13-01.08.26:003][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.13-01.08.26:075][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.13-01.08.26:096][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.13-01.08.26:116][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.13-01.08.26:135][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.13-01.08.26:153][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.13-01.08.26:184][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.13-01.08.26:184][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.13-01.08.26:446][  0]LogXGEController: Cleaning working directory: C:/Users/Jonny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.13-01.08.26:457][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2018.05.13-01.08.28:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: Loaded boot cache 0.41s 77MB C:/Users/Jonny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jonny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.13-01.08.29:166][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.13-01.08.29:190][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.13-01.08.29:202][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.13-01.08.29:220][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.13-01.08.29:221][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.13-01.08.29:249][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.13-01.08.29:249][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.13-01.08.30:846][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2018.05.13-01.08.31:361][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.13-01.08.31:583][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.13-01.08.31:587][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.13-01.08.31:587][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.13-01.08.31:587][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.13-01.08.31:587][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.13-01.08.31:587][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.13-01.08.31:641][  0]LogNetVersion: GameJam , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2281863040)
+[2018.05.13-01.08.32:307][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.127493 seconds
+[2018.05.13-01.08.32:315][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.13-01.08.32:315][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.13-01.08.32:315][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.13-01.09.04:791][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.13-01.09.04:854][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.13-01.09.05:291][  0]LogTemp: Warning: Your message
+[2018.05.13-01.09.05:294][  0]LogTemp: Warning: Your message
+[2018.05.13-01.09.05:295][  0]LogTemp: Warning: Your message
+[2018.05.13-01.09.05:296][  0]LogTemp: Warning: Your message
+[2018.05.13-01.09.05:437][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.388211ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.13-01.09.05:458][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.042938ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.05.13-01.09.05:869][  0]SourceControl: Source control is disabled
+[2018.05.13-01.09.05:869][  0]SourceControl: Source control is disabled
+[2018.05.13-01.09.05:899][  0]SourceControl: Source control is disabled
+[2018.05.13-01.09.05:928][  0]SourceControl: Source control is disabled
+[2018.05.13-01.09.06:748][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.13-01.09.06:993][  0]LogOcInput: OculusInput pre-init called
+[2018.05.13-01.09.07:224][  0]LogEngine: Initializing Engine...
+[2018.05.13-01.09.07:225][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.13-01.09.07:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.13-01.09.07:228][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.13-01.09.07:564][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.13-01.09.07:671][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.13-01.09.07:689][  0]LogInit: FAudioDevice initialized.
+[2018.05.13-01.09.07:945][  0]LogDerivedDataCache: Saved boot cache 0.26s 77MB C:/Users/Jonny/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.13-01.09.07:971][  0]LogInit: Texture streaming: Enabled
+[2018.05.13-01.09.07:998][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.13-01.09.08:023][  0]LogInit: Transaction tracking system initialized
+[2018.05.13-01.09.08:063][  0]BlueprintLog: New page: Editor Load
+[2018.05.13-01.09.08:257][  0]LocalizationService: Localization service is disabled
+[2018.05.13-01.09.08:504][  0]LogConsoleResponse: Display: 
+[2018.05.13-01.09.08:698][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.13-01.09.08:698][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.13-01.09.08:698][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.13-01.09.08:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.13-01.09.08:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.13-01.09.09:415][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/' took 0.02s
+[2018.05.13-01.09.09:640][  0]SourceControl: Source control is disabled
+[2018.05.13-01.09.09:677][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.05.13-01.09.09:736][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.05.13-01.09.09:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.05.13-01.09.09:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.05.13-01.09.09:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.05.13-01.09.09:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.05.13-01.09.09:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.05.13-01.09.09:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.05.13-01.09.09:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.05.13-01.09.09:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.05.13-01.09.09:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.05.13-01.09.09:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.05.13-01.09.09:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.05.13-01.09.09:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.05.13-01.09.09:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.05.13-01.09.09:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.05.13-01.09.09:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.05.13-01.09.09:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.05.13-01.09.09:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.05.13-01.09.09:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Fire01.uasset"
+[2018.05.13-01.09.10:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.05.13-01.09.10:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.05.13-01.09.10:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.05.13-01.09.10:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Light01.uasset"
+[2018.05.13-01.09.10:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.05.13-01.09.10:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Light02.uasset"
+[2018.05.13-01.09.10:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.05.13-01.09.10:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.05.13-01.09.10:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.05.13-01.09.10:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.05.13-01.09.10:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.05.13-01.09.10:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.05.13-01.09.10:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.05.13-01.09.10:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.05.13-01.09.10:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.05.13-01.09.10:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Steam01.uasset"
+[2018.05.13-01.09.10:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.05.13-01.09.10:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.05.13-01.09.10:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.05.13-01.09.10:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.05.13-01.09.10:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.05.13-01.09.10:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.05.13-01.09.10:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.05.13-01.09.10:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.05.13-01.09.10:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.05.13-01.09.10:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.05.13-01.09.10:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.05.13-01.09.10:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.05.13-01.09.10:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.05.13-01.09.10:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.05.13-01.09.10:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.05.13-01.09.10:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.05.13-01.09.10:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.05.13-01.09.11:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.05.13-01.09.11:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.05.13-01.09.11:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.05.13-01.09.11:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.05.13-01.09.11:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.05.13-01.09.11:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/StarterMap.umap"
+[2018.05.13-01.09.11:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.05.13-01.09.11:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.05.13-01.09.11:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.05.13-01.09.11:539][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Basic_Wall.uasset".
+[2018.05.13-01.09.11:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.05.13-01.09.11:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.05.13-01.09.11:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.05.13-01.09.11:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.05.13-01.09.11:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.05.13-01.09.11:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.05.13-01.09.11:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.05.13-01.09.11:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.05.13-01.09.11:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.05.13-01.09.11:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.05.13-01.09.11:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.05.13-01.09.11:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.05.13-01.09.11:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.05.13-01.09.11:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.05.13-01.09.11:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.05.13-01.09.12:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.05.13-01.09.12:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.05.13-01.09.12:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.05.13-01.09.12:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.05.13-01.09.12:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.05.13-01.09.12:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.05.13-01.09.12:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.05.13-01.09.12:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.05.13-01.09.12:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.05.13-01.09.12:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.05.13-01.09.12:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.05.13-01.09.12:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.05.13-01.09.12:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.05.13-01.09.12:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.05.13-01.09.12:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.05.13-01.09.12:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.05.13-01.09.12:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.05.13-01.09.12:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.05.13-01.09.12:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.05.13-01.09.12:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.05.13-01.09.12:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.05.13-01.09.12:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.05.13-01.09.12:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.05.13-01.09.12:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.05.13-01.09.12:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.05.13-01.09.12:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.05.13-01.09.12:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.05.13-01.09.12:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.05.13-01.09.12:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.05.13-01.09.12:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.05.13-01.09.12:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.05.13-01.09.12:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.05.13-01.09.12:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.05.13-01.09.12:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.05.13-01.09.12:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.05.13-01.09.12:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.05.13-01.09.12:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.05.13-01.09.12:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.05.13-01.09.12:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.05.13-01.09.12:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.05.13-01.09.12:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.05.13-01.09.12:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.05.13-01.09.12:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.05.13-01.09.12:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.05.13-01.09.12:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.05.13-01.09.12:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.05.13-01.09.12:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Door.uasset"
+[2018.05.13-01.09.12:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.05.13-01.09.12:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.05.13-01.09.12:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.05.13-01.09.13:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.05.13-01.09.13:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.05.13-01.09.13:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.05.13-01.09.13:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.05.13-01.09.13:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.05.13-01.09.13:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.05.13-01.09.13:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.05.13-01.09.13:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.05.13-01.09.13:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.05.13-01.09.13:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.05.13-01.09.13:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.05.13-01.09.13:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.05.13-01.09.13:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.05.13-01.09.13:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.05.13-01.09.13:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.05.13-01.09.13:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.05.13-01.09.13:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.05.13-01.09.13:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.05.13-01.09.13:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.05.13-01.09.13:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.05.13-01.09.13:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.05.13-01.09.13:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.05.13-01.09.13:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.05.13-01.09.13:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.05.13-01.09.13:655][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Cylinder.uasset".
+[2018.05.13-01.09.13:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.05.13-01.09.13:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.05.13-01.09.13:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.05.13-01.09.13:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.05.13-01.09.13:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.05.13-01.09.13:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.05.13-01.09.13:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.05.13-01.09.13:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.05.13-01.09.13:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.05.13-01.09.13:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.05.13-01.09.13:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.05.13-01.09.13:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.05.13-01.09.13:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.05.13-01.09.13:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.05.13-01.09.13:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.05.13-01.09.13:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.05.13-01.09.13:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.05.13-01.09.14:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.05.13-01.09.14:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.05.13-01.09.14:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.05.13-01.09.14:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.05.13-01.09.14:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.05.13-01.09.14:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.05.13-01.09.15:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.05.13-01.09.15:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.05.13-01.09.16:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.05.13-01.09.16:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.05.13-01.09.16:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.05.13-01.09.16:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.05.13-01.09.16:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.05.13-01.09.16:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.05.13-01.09.16:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.05.13-01.09.16:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.05.13-01.09.16:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.05.13-01.09.16:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.05.13-01.09.16:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.05.13-01.09.16:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.05.13-01.09.16:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.05.13-01.09.17:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.05.13-01.09.17:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.05.13-01.09.17:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.05.13-01.09.17:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.05.13-01.09.17:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.05.13-01.09.17:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.05.13-01.09.17:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.05.13-01.09.17:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.05.13-01.09.17:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.05.13-01.09.18:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.05.13-01.09.18:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.05.13-01.09.18:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.05.13-01.09.18:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.05.13-01.09.18:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.05.13-01.09.18:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.05.13-01.09.18:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.05.13-01.09.19:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.05.13-01.09.19:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.05.13-01.09.19:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.05.13-01.09.19:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.05.13-01.09.19:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.05.13-01.09.19:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.05.13-01.09.19:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.05.13-01.09.19:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.05.13-01.09.19:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.05.13-01.09.19:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.05.13-01.09.19:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.05.13-01.09.19:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.05.13-01.09.20:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.05.13-01.09.20:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.05.13-01.09.21:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.05.13-01.09.21:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.05.13-01.09.21:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.05.13-01.09.21:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.05.13-01.09.22:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.05.13-01.09.22:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.05.13-01.09.22:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.05.13-01.09.22:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.05.13-01.09.22:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.05.13-01.09.23:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.05.13-01.09.23:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.05.13-01.09.23:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.05.13-01.09.23:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.05.13-01.09.23:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.05.13-01.09.23:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.05.13-01.09.23:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.05.13-01.09.23:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.05.13-01.09.24:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.05.13-01.09.24:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.05.13-01.09.24:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.05.13-01.09.24:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.05.13-01.09.24:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.05.13-01.09.25:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.05.13-01.09.25:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.05.13-01.09.25:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.05.13-01.09.25:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.05.13-01.09.25:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.05.13-01.09.26:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.05.13-01.09.26:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.05.13-01.09.26:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.05.13-01.09.26:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.05.13-01.09.26:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.05.13-01.09.26:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.05.13-01.09.26:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.05.13-01.09.26:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.05.13-01.09.27:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.05.13-01.09.27:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.05.13-01.09.27:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.05.13-01.09.27:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.05.13-01.09.27:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.05.13-01.09.27:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.05.13-01.09.27:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.05.13-01.09.27:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.05.13-01.09.27:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.05.13-01.09.28:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.05.13-01.09.28:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.05.13-01.09.28:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.05.13-01.09.28:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.05.13-01.09.28:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.05.13-01.09.29:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.05.13-01.09.29:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.05.13-01.09.29:563][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.05.13-01.09.29:811][  0]LogSavePackage: Save=23.02ms
+[2018.05.13-01.09.29:811][  0]LogSavePackage: Moving '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Floor_400x4001B119D7D44E53647539AFB9277E9BCA8.tmp' to '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.05.13-01.09.29:817][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.13-01.09.29:818][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.05.13-01.09.29:823][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.13-01.09.29:823][  0]LightingResults: New page: Lighting Build
+[2018.05.13-01.09.29:827][  0]MapCheck: New page: Map Check
+[2018.05.13-01.09.29:827][  0]LightingResults: New page: Lighting Build
+[2018.05.13-01.09.30:475][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.13-01.09.30:482][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.13-01.09.30:511][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.13-01.09.30:597][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.789ms to complete.
+[2018.05.13-01.09.30:597][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.774
+[2018.05.13-01.09.30:915][  0]LogCollectionManager: Loaded 0 collections in 0.003079 seconds
+[2018.05.13-01.09.31:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Collections/' took 0.01s
+[2018.05.13-01.09.31:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/Developers/Jonny/Collections/' took 0.01s
+[2018.05.13-01.09.31:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/Collections/' took 0.01s
+[2018.05.13-01.09.31:019][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.13-01.09.31:041][  0]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 2458 classes and 562 folders.
+[2018.05.13-01.09.31:056][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.05.13-01.09.32:849][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.13-01.09.32:872][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.13-01.09.32:877][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.13-01.09.32:962][  0]LogSlate: Took 0.081714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.13-01.09.33:001][  0]LogRenderer: Reallocating scene render targets to support 1616x600 Format 10 NumSamples 1 (Frame:1).
+[2018.05.13-01.09.33:047][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.13-01.09.33:134][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.05.13-01.09.33:134][  0]LogLoad: (Engine Initialization) Total time: 80.45 seconds
+[2018.05.13-01.09.33:134][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.13-01.09.33:635][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.13-01.09.34:181][  2]LogAssetRegistry: Asset discovery search completed in 63.3572 seconds
+[2018.05.13-01.09.34:183][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.13-01.09.34:183][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.05.13-01.09.48:494][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.09.48:568][380]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.13-01.09.48:578][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.09.48:579][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.13-01.09.48:580][380]PIE: New page: PIE session: FirstPersonExampleMap (May 12, 2018, 5:09:48 PM)
+[2018.05.13-01.09.48:580][380]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.13-01.09.48:617][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037193s)
+[2018.05.13-01.09.48:618][380]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.13-01.09.48:618][380]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2018.05.13-01.09.48:618][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.038586s)
+[2018.05.13-01.09.48:663][380]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.13-01.09.48:675][380]LogInit: FAudioDevice initialized.
+[2018.05.13-01.09.48:721][380]LogLoad: Game class is 'GameJamGameMode'
+[2018.05.13-01.09.48:723][380]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.12-21.09.48
+[2018.05.13-01.09.48:723][380]LogWorld: Bringing up level for play took: 0.001108
+[2018.05.13-01.09.48:729][380]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.05.13-01.09.48:730][380]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.05
+[2018.05.13-01.09.48:730][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.09.49:551][470]LogTemp: Warning: Your message
+[2018.05.13-01.09.50:714][609]LogTemp: Warning: Your message
+[2018.05.13-01.09.50:881][629]LogTemp: Warning: Your message
+[2018.05.13-01.09.51:040][648]LogTemp: Warning: Your message
+[2018.05.13-01.09.51:223][670]LogTemp: Warning: Your message
+[2018.05.13-01.09.51:707][728]LogTemp: Warning: Your message
+[2018.05.13-01.09.52:110][776]LogTemp: Warning: Your message
+[2018.05.13-01.09.52:511][824]LogTemp: Warning: Your message
+[2018.05.13-01.09.52:753][853]LogTemp: Warning: Your message
+[2018.05.13-01.09.53:764][974]LogTemp: Warning: Your message
+[2018.05.13-01.09.53:940][995]LogTemp: Warning: Your message
+[2018.05.13-01.09.54:101][ 14]LogTemp: Warning: Your message
+[2018.05.13-01.09.54:276][ 35]LogTemp: Warning: Your message
+[2018.05.13-01.09.54:443][ 55]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:001][122]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:179][143]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:338][162]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:522][184]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:713][207]LogTemp: Warning: Your message
+[2018.05.13-01.09.55:914][231]LogTemp: Warning: Your message
+[2018.05.13-01.09.56:267][273]LogTemp: Warning: Your message
+[2018.05.13-01.09.56:434][293]LogTemp: Warning: Your message
+[2018.05.13-01.09.56:618][315]LogTemp: Warning: Your message
+[2018.05.13-01.09.56:810][338]LogTemp: Warning: Your message
+[2018.05.13-01.09.56:985][359]LogTemp: Warning: Your message
+[2018.05.13-01.09.57:172][381]LogTemp: Warning: Your message
+[2018.05.13-01.09.57:381][406]LogTemp: Warning: Your message
+[2018.05.13-01.09.57:567][428]LogTemp: Warning: Your message
+[2018.05.13-01.09.58:087][490]LogTemp: Warning: Your message
+[2018.05.13-01.09.58:279][513]LogTemp: Warning: Your message
+[2018.05.13-01.09.58:797][575]LogTemp: Warning: Your message
+[2018.05.13-01.10.00:427][770]LogTemp: Warning: Your message
+[2018.05.13-01.10.00:818][817]LogTemp: Warning: Your message
+[2018.05.13-01.10.01:336][879]LogTemp: Warning: Your message
+[2018.05.13-01.10.01:844][940]LogTemp: Warning: Your message
+[2018.05.13-01.10.02:236][987]LogTemp: Warning: Your message
+[2018.05.13-01.10.02:636][ 35]LogTemp: Warning: Your message
+[2018.05.13-01.10.02:953][ 73]LogTemp: Warning: Your message
+[2018.05.13-01.10.03:721][165]LogTemp: Warning: Your message
+[2018.05.13-01.10.04:081][208]LogTemp: Warning: Your message
+[2018.05.13-01.10.04:406][247]LogTemp: Warning: Your message
+[2018.05.13-01.10.05:740][407]LogTemp: Warning: Your message
+[2018.05.13-01.10.06:116][452]LogTemp: Warning: Your message
+[2018.05.13-01.10.06:391][485]LogTemp: Warning: Your message
+[2018.05.13-01.10.06:599][510]LogTemp: Warning: Your message
+[2018.05.13-01.10.06:791][533]LogTemp: Warning: Your message
+[2018.05.13-01.10.06:975][555]LogTemp: Warning: Your message
+[2018.05.13-01.10.07:203][582]LogTemp: Warning: Your message
+[2018.05.13-01.10.07:378][603]LogTemp: Warning: Your message
+[2018.05.13-01.10.07:703][642]LogTemp: Warning: Your message
+[2018.05.13-01.10.08:673][758]LogTemp: Warning: Your message
+[2018.05.13-01.10.08:874][782]LogTemp: Warning: Your message
+[2018.05.13-01.10.09:048][803]LogTemp: Warning: Your message
+[2018.05.13-01.10.09:711][882]LogTemp: Warning: Your message
+[2018.05.13-01.10.10:646][994]LogTemp: Warning: Your message
+[2018.05.13-01.10.10:813][ 14]LogTemp: Warning: Your message
+[2018.05.13-01.10.11:014][ 38]LogTemp: Warning: Your message
+[2018.05.13-01.10.11:184][ 58]LogTemp: Warning: Your message
+[2018.05.13-01.10.11:818][134]LogTemp: Warning: Your message
+[2018.05.13-01.10.11:994][155]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:145][173]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:312][193]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:479][213]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:655][233]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:825][252]LogTemp: Warning: Your message
+[2018.05.13-01.10.12:983][271]LogTemp: Warning: Your message
+[2018.05.13-01.10.13:172][293]LogTemp: Warning: Your message
+[2018.05.13-01.10.13:347][314]LogTemp: Warning: Your message
+[2018.05.13-01.10.13:522][335]LogTemp: Warning: Your message
+[2018.05.13-01.10.13:697][356]LogTemp: Warning: Your message
+[2018.05.13-01.10.13:857][375]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:017][394]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:172][412]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:339][432]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:523][454]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:707][476]LogTemp: Warning: Your message
+[2018.05.13-01.10.14:890][498]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:065][519]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:228][538]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:414][560]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:572][579]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:748][600]LogTemp: Warning: Your message
+[2018.05.13-01.10.15:952][624]LogTemp: Warning: Your message
+[2018.05.13-01.10.16:156][648]LogTemp: Warning: Your message
+[2018.05.13-01.10.24:569][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.10.24:606][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.10.27:500][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.10.31:649][480]LogTemp: Warning: Your message
+[2018.05.13-01.11.22:554][ 82]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.13-01.11.31:295][623]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.11.31:326][624]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.11.31:875][625]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.11.34:495][626]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.11.34:513][627]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.11.34:847][628]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.05.13-01.14.22:367][604]Candidate modules for hot reload:
+[2018.05.13-01.14.22:367][604]  GameJam
+[2018.05.13-01.14.22:367][604]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe GameJam -ModuleWithSuffix=GameJam,5291 Win64 Development -editorrecompile -canskiplink "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/GameJam.uproject" ]
+[2018.05.13-01.14.22:369][604]Warning: Starting HotReload took  0.3s.
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: New page: Compilation - May 12, 2018, 5:16:24 PM
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Creating makefile for hot reloading GameJam (no existing makefile)
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Parsing headers for GameJamEditor
+[2018.05.13-01.16.24:295][127]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\GameJam.uproject" "C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\GameJamEditor\Development\GameJamEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.13-01.16.24:295][127]CompilerResultsLog: Reflection code generated for GameJamEditor in 14.0986393 seconds
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Distributing 17 actions to XGE
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: License is invalid:
+[2018.05.13-01.16.24:296][127]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2018.05.13-01.16.24:296][127]CompilerResultsLog:     This build will run in standalone mode.
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: -------------------------------------------------------------------------------
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: SharedPCH.Engine.cpp (0:33.11 at +0:00)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJam.init.gen.cpp (0:00.57 at +0:33)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJam.cpp (0:00.43 at +0:33)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamCharacter.cpp (0:02.07 at +0:34)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamGameMode.cpp (0:00.98 at +0:36)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamHUD.cpp (0:01.03 at +0:37)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamProjectile.cpp (0:00.50 at +0:38)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : error C2065: 'CylinderAsset': undeclared identifier
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : error C2228: left of '.Succeeded' must have class/struct/union
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : note: type is 'unknown-type'
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(33) : error C2065: 'CylinderAsset': undeclared identifier
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(33) : error C2228: left of '.Object' must have class/struct/union
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(33) : note: type is 'unknown-type'
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX64\x64\cl.exe (tool returned code: 2)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: PlayerPawn.cpp (0:01.87 at +0:38)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamCharacter.gen.cpp (0:00.89 at +0:40)
+[2018.05.13-01.16.24:296][127]CompilerResultsLog: GameJamGameMode.gen.cpp (0:00.81 at +0:41)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: GameJamHUD.gen.cpp (0:00.95 at +0:42)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: GameJamProjectile.gen.cpp (0:00.70 at +0:43)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: PlayerPawn.gen.cpp (0:00.68 at +0:44)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: PCLaunch.rc (0:00.37 at +0:44)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: ModuleVersionResource.rc.inl (0:00.10 at +0:45)
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: ---------------------- Done ----------------------
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:297][127]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 1 build system warning(s):
+[2018.05.13-01.16.24:297][127]CompilerResultsLog:    - License is invalid
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: 
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Binaries\Win64\UE4Editor-GameJam-5291.dll
+[2018.05.13-01.16.24:297][127]CompilerResultsLog: Total build time: 121.28 seconds (XGE executor: 0.00 seconds)
+[2018.05.13-01.16.24:297][127]LogMainFrame: MainFrame: Module compiling took 121.958 seconds
+[2018.05.13-01.16.24:297][127]Warning: HotReload failed, recompile failed
+[2018.05.13-01.17.04:403][657]Candidate modules for hot reload:
+[2018.05.13-01.17.04:404][657]  GameJam
+[2018.05.13-01.17.04:404][657]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe GameJam -ModuleWithSuffix=GameJam,8426 Win64 Development -editorrecompile -canskiplink "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/GameJam.uproject" ]
+[2018.05.13-01.17.04:406][657]Warning: Starting HotReload took  0.2s.
+[2018.05.13-01.17.06:843][903]CompilerResultsLog: New page: Compilation - May 12, 2018, 5:17:06 PM
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Distributing 3 actions to XGE
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: License is invalid:
+[2018.05.13-01.17.06:844][903]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2018.05.13-01.17.06:844][903]CompilerResultsLog:     This build will run in standalone mode.
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: -------------------------------------------------------------------------------
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: GameJamProjectile.cpp (0:00.53 at +0:00)
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : error C2065: 'CylinderAsset': undeclared identifier
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : error C2228: left of '.Succeeded' must have class/struct/union
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Error: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJamProjectile.cpp(31) : note: type is 'unknown-type'
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX64\x64\cl.exe (tool returned code: 2)
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: ---------------------- Done ----------------------
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 1 build system warning(s):
+[2018.05.13-01.17.06:844][903]CompilerResultsLog:    - License is invalid
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: 
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Binaries\Win64\UE4Editor-GameJam-8426.dll
+[2018.05.13-01.17.06:844][903]CompilerResultsLog: Total build time: 2.17 seconds (XGE executor: 0.00 seconds)
+[2018.05.13-01.17.06:844][903]LogMainFrame: MainFrame: Module compiling took 2.452 seconds
+[2018.05.13-01.17.06:844][903]Warning: HotReload failed, recompile failed
+[2018.05.13-01.18.08:390][563]Candidate modules for hot reload:
+[2018.05.13-01.18.08:391][563]  GameJam
+[2018.05.13-01.18.08:391][563]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe GameJam -ModuleWithSuffix=GameJam,2538 Win64 Development -editorrecompile -canskiplink "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/GameJam.uproject" ]
+[2018.05.13-01.18.08:393][563]Warning: Starting HotReload took  0.1s.
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: New page: Compilation - May 12, 2018, 5:18:13 PM
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: Distributing 3 actions to XGE
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: License is invalid:
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:     This build will run in standalone mode.
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: -------------------------------------------------------------------------------
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: GameJamProjectile.cpp (0:01.12 at +0:00)
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: UE4Editor-GameJam-2538.dll (0:01.87 at +0:01)
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:    Creating library C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-2538.suppressed.lib and object C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-2538.suppressed.exp
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: UE4Editor-GameJam-2538.lib (0:00.23 at +0:03)
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:    Creating library C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-2538.lib and object C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-2538.exp
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: ---------------------- Done ----------------------
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 1 build system warning(s):
+[2018.05.13-01.18.13:729][107]CompilerResultsLog:    - License is invalid
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: 
+[2018.05.13-01.18.13:729][107]CompilerResultsLog: Total build time: 5.06 seconds (XGE executor: 3.69 seconds)
+[2018.05.13-01.18.13:729][107]LogMainFrame: MainFrame: Module compiling took 5.350 seconds
+[2018.05.13-01.18.13:816][107]LogHotReload: Re-instancing GameJamHUD after hot-reload.
+[2018.05.13-01.18.13:877][107]LogHotReload: Re-instancing GameJamProjectile after hot-reload.
+[2018.05.13-01.18.14:003][107]LogHotReload: Re-instancing PlayerPawn after hot-reload.
+[2018.05.13-01.18.14:129][107]LogContentBrowser: Native class hierarchy updated for 'GameJam' in 0.0013 seconds. Added 5 classes and 2 folders.
+[2018.05.13-01.18.14:131][107]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.05.13-01.18.14:305][107]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2458 classes and 562 folders.
+[2018.05.13-01.18.14:306][107]Display: HotReload took  6.1s.
+[2018.05.13-01.18.16:010][286]LogSlate: Window 'Message Log' being destroyed
+[2018.05.13-01.18.16:014][286]LogSlate: Window 'Message Log' being destroyed
+[2018.05.13-01.18.16:805][380]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.13-01.18.16:821][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.18.16:822][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.13-01.18.16:822][380]PIE: New page: PIE session: FirstPersonExampleMap (May 12, 2018, 5:18:16 PM)
+[2018.05.13-01.18.16:822][380]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.13-01.18.16:881][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059347s)
+[2018.05.13-01.18.16:882][380]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.13-01.18.16:882][380]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.05.13-01.18.16:882][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.060488s)
+[2018.05.13-01.18.16:918][380]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.13-01.18.16:930][380]LogInit: FAudioDevice initialized.
+[2018.05.13-01.18.16:964][380]LogLoad: Game class is 'GameJamGameMode'
+[2018.05.13-01.18.16:965][380]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.12-21.18.16
+[2018.05.13-01.18.16:965][380]LogWorld: Bringing up level for play took: 0.000953
+[2018.05.13-01.18.16:966][380]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.286
+[2018.05.13-01.18.16:967][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.18.27:907][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.18.27:943][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.18.41:869][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.18.41:891][926]Candidate modules for hot reload:
+[2018.05.13-01.18.41:891][926]  GameJam
+[2018.05.13-01.18.41:892][926]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe GameJam -ModuleWithSuffix=GameJam,1493 Win64 Development -editorrecompile -canskiplink "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/GameJam.uproject" ]
+[2018.05.13-01.18.41:893][926]Warning: Starting HotReload took  0.0s.
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: New page: Compilation - May 12, 2018, 5:18:45 PM
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: Distributing 3 actions to XGE
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: License is invalid:
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:     This build will run in standalone mode.
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: -------------------------------------------------------------------------------
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: GameJamProjectile.cpp (0:00.86 at +0:00)
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: UE4Editor-GameJam-1493.dll (0:00.96 at +0:00)
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:    Creating library C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-1493.suppressed.lib and object C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-1493.suppressed.exp
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: UE4Editor-GameJam-1493.lib (0:00.12 at +0:01)
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:    Creating library C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-1493.lib and object C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam-1493.exp
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: ---------------------- Done ----------------------
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:881][381]CompilerResultsLog: 1 build system warning(s):
+[2018.05.13-01.18.45:881][381]CompilerResultsLog:    - License is invalid
+[2018.05.13-01.18.45:882][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:882][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:882][381]CompilerResultsLog: 
+[2018.05.13-01.18.45:882][381]CompilerResultsLog: Total build time: 3.68 seconds (XGE executor: 2.24 seconds)
+[2018.05.13-01.18.45:882][381]LogMainFrame: MainFrame: Module compiling took 4.003 seconds
+[2018.05.13-01.18.45:961][381]LogHotReload: Re-instancing GameJamProjectile after hot-reload.
+[2018.05.13-01.18.46:088][381]LogContentBrowser: Native class hierarchy updated for 'GameJam' in 0.0010 seconds. Added 5 classes and 2 folders.
+[2018.05.13-01.18.46:091][381]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.05.13-01.18.46:192][381]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2458 classes and 562 folders.
+[2018.05.13-01.18.46:192][381]Display: HotReload took  4.3s.
+[2018.05.13-01.18.47:142][477]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.13-01.18.47:157][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.18.47:157][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.13-01.18.47:157][477]PIE: New page: PIE session: FirstPersonExampleMap (May 12, 2018, 5:18:47 PM)
+[2018.05.13-01.18.47:158][477]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.13-01.18.47:179][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021140s)
+[2018.05.13-01.18.47:180][477]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.13-01.18.47:180][477]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2018.05.13-01.18.47:180][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022445s)
+[2018.05.13-01.18.47:214][477]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.13-01.18.47:226][477]LogInit: FAudioDevice initialized.
+[2018.05.13-01.18.47:260][477]LogLoad: Game class is 'GameJamGameMode'
+[2018.05.13-01.18.47:261][477]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.12-21.18.47
+[2018.05.13-01.18.47:261][477]LogWorld: Bringing up level for play took: 0.000953
+[2018.05.13-01.18.47:262][477]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.583
+[2018.05.13-01.18.47:263][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.19.06:971][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.19.07:009][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.13-01.19.09:992][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.11:330][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.14:633][679]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.05.13-01.19.14:634][679]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.05.13-01.19.23:699][661]LogSlate: Window 'Source Control Login' being destroyed
+[2018.05.13-01.19.35:988][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.40:926][660]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.05.13-01.19.41:157][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.54:439][660]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.13-01.19.54:456][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.54:541][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.13-01.19.55:055][660]LogSourceControl: commit successful: [master 24634a6] J_Update
+[2018.05.13-01.19.55:121][660]SourceControl: [master 24634a6] J_Update
+[2018.05.13-01.19.55:121][660]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.05.13-01.19.55:139][660]SourceControl: Commited [master 24634a6] J_Update.
+[2018.05.13-01.20.07:927][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.20.16:921][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.05.13-01.20.18:299][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.20.18:715][375]LogSlate: Window 'Source Control Login' being destroyed
+[2018.05.13-01.20.29:455][380]Cmd: TRANSACTION UNDO
+[2018.05.13-01.20.29:455][380]LogEditorTransaction: Undo Move Actors
+[2018.05.13-01.20.35:172][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.13-01.20.38:344][983]LogSlate: Took 0.022893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.13-01.20.38:862][ 14]LogSlate: Window 'Shape_Sphere' being destroyed
+[2018.05.13-01.20.38:866][ 14]LogSlate: Window 'Shape_Sphere' being destroyed
+[2018.05.13-01.20.45:833][547]LogSourceControl: Writed 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/temp-f8f4ac847af9ee0525350012b15211b32f08e582-Shape_Sphere.uasset' (264634o)
+[2018.05.13-01.20.45:867][547]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.05.13-01.20.45:867][547]LogWindows: Warning: URL: p4merge.exe "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-0.txt" "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-1.txt" 
+[2018.05.13-01.20.47:938][547]LogSlate: Window 'Message' being destroyed
+[2018.05.13-01.20.49:759][547]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.05.13-01.20.49:759][547]LogWindows: Warning: URL: p4merge.exe "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-0.txt" "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-1.txt" 
+[2018.05.13-01.20.53:432][547]LogSlate: Window 'Message' being destroyed
+[2018.05.13-01.20.54:729][547]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.05.13-01.20.54:729][547]LogWindows: Warning: URL: p4merge.exe "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-0.txt" "C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Diff/TextShape_Sphere-1.txt" 
+[2018.05.13-01.20.55:567][547]LogSlate: Window 'Message' being destroyed
+[2018.05.13-01.21.01:798][ 10]LogSavePackage: Save=116.32ms
+[2018.05.13-01.21.01:798][ 10]LogSavePackage: Moving '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/FirstPersonExampleMap_Auto13AAD1AAE47D5288B70CF83A2BABC6570.tmp' to '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.05.13-01.21.01:800][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.05.13-01.21.01:807][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.183
+[2018.05.13-01.21.01:807][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.183
+[2018.05.13-01.21.28:489][539]LogSlate: Window 'File History' being destroyed
+[2018.05.13-01.32.46:251][802]LogSavePackage: Save=114.19ms
+[2018.05.13-01.32.46:251][802]LogSavePackage: Moving '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/FirstPersonExampleMap790769BE45A484CBC750778EDDB85E05.tmp' to '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.05.13-01.32.46:262][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2018.05.13-01.32.46:303][802]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.315
+[2018.05.13-01.32.47:590][893]LogSavePackage: Save=109.24ms
+[2018.05.13-01.32.47:590][893]LogSavePackage: Moving '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/FirstPersonExampleMap27A7B51943124502F0D85397114CEEE8.tmp' to '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.05.13-01.32.47:595][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2018.05.13-01.32.49:701][893]LogSavePackage: Save=1583.23ms
+[2018.05.13-01.32.49:701][893]LogSavePackage: Moving '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/FirstPersonExampleMap_BuiltData30624CFE40E1CC552CC0CE90A9ECA745.tmp' to '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.05.13-01.32.49:705][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.05.13-01.32.52:743][183]LogSlate: Window 'GameJam - Unreal Editor' being destroyed
+[2018.05.13-01.32.52:981][184]Cmd: QUIT_EDITOR
+[2018.05.13-01.32.53:516][184]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.13-01.32.53:539][184]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.13-01.32.53:539][184]LogExit: Preparing to exit.
+[2018.05.13-01.32.54:438][184]LogDirectoryWatcher: A directory notification for 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/' was aborted.
+[2018.05.13-01.32.54:464][184]LogExit: Editor shut down
+[2018.05.13-01.32.54:471][184]LogExit: Transaction tracking system shut down
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.13-01.32.54:719][184]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.13-01.32.54:854][184]LogExit: Object subsystem successfully closed.
+[2018.05.13-01.32.54:912][184]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.13-01.32.54:917][184]LogD3D11RHI: Shutdown
+[2018.05.13-01.32.54:917][184]LogD3D11RHI: CleanupD3DDevice
+[2018.05.13-01.32.54:927][184]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (582)
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module GameJam (580)
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2018.05.13-01.32.54:957][184]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.05.13-01.32.54:957][184]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.05.13-01.32.54:959][184]LogDirectoryWatcher: A directory notification for 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/Collections/' was aborted.
+[2018.05.13-01.32.54:959][184]LogDirectoryWatcher: A directory notification for 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Content/Developers/Jonny/Collections/' was aborted.
+[2018.05.13-01.32.54:959][184]LogDirectoryWatcher: A directory notification for 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Saved/Collections/' was aborted.
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.13-01.32.54:959][184]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.13-01.32.54:960][184]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.13-01.32.54:961][184]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.05.13-01.32.55:042][184]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.05.13-01.32.55:042][184]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.05.13-01.32.55:043][184]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.05.13-01.32.55:107][184]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.05.13-01.32.55:108][184]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.05.13-01.32.55:128][184]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.05.13-01.32.55:129][184]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.05.13-01.32.55:134][184]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.13-01.32.55:135][184]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.13-01.32.55:235][184]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.13-01.32.55:336][184]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.13-01.32.55:336][184]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.13-01.32.55:336][184]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.13-01.32.55:336][184]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.13-01.32.55:336][184]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.13-01.32.55:337][184]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.13-01.32.55:340][184]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.13-01.32.55:340][184]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.13-01.32.55:340][184]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.13-01.32.55:340][184]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.13-01.32.55:341][184]LogDirectoryWatcher: A directory notification for 'C:/Users/Jonny/Documents/GitHub/LightSpeedZephyr/GameJam/Binaries/Win64' was aborted.
+[2018.05.13-01.32.55:342][184]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.13-01.32.55:345][184]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.13-01.32.55:345][184]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.13-01.32.55:345][184]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.13-01.32.55:346][184]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.13-01.32.55:918][184]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.13-01.32.55:918][184]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.13-01.32.55:918][184]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.13-01.32.55:931][184]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.13-01.32.55:938][184]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.13-01.32.55:938][184]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.13-01.32.55:938][184]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.13-01.32.55:939][184]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.13-01.32.55:942][184]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.13-01.32.55:943][184]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.13-01.32.55:944][184]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.13-01.32.55:963][184]LogDerivedDataCache: Shutdown
+[2018.05.13-01.32.55:963][184]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.13-01.32.55:963][184]LogXGEController: Cleaning working directory: C:/Users/Jonny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.13-01.32.55:964][184]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.13-01.32.55:965][184]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.13-01.32.55:966][184]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.13-01.32.55:966][184]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.13-01.32.55:966][184]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6B0931D-4999-C9C5-1B5F-C185B3B4A927%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=5c34ba274be87a0b8734d7b6930bf78b%7Cb3c79d6930b14078ad9e8cb56ecbbae9%7C9da321d5-6fbe-488b-9bad-f85f8a6814e1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.13-01.32.55:970][184]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.13-01.32.55:972][184]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.13-01.32.55:972][184]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.13-01.32.55:972][184]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.13-01.32.55:973][184]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.13-01.32.55:973][184]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.13-01.32.55:973][184]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.13-01.32.55:973][184]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.13-01.32.55:974][184]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.13-01.32.55:975][184]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.13-01.32.55:989][184]LogExit: Exiting.
+[2018.05.13-01.32.56:010][184]Log file closed, 05/12/18 21:32:56

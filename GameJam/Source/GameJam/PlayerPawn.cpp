@@ -146,11 +146,24 @@ void APlayerPawn::PlayerBounds()
 		MyPlayer.X += 4.25f;
 		SetActorLocation(MyPlayer);
 	}
-	else if (MyPlayer.X >= 1500.0f)
+	else if (MyPlayer.X >= 2000.0f)
 	{
 		MyPlayer.X -= 4.25f;
 		SetActorLocation(MyPlayer);
 	}
+
+	if (MyPlayer.Y <= CamLocation.Y - 550)
+	{
+		MyPlayer.Y += 4.25f;
+		SetActorLocation(MyPlayer);
+	}		
+	else if (MyPlayer.Y >= CamLocation.Y + 350)
+	{
+		MyPlayer.Y -= 4.25f;
+		SetActorLocation(MyPlayer);
+	}
+		
+
 
 	//Vert Boundaries
 }

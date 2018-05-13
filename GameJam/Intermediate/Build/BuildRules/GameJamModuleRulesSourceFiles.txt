@@ -1,0 +1,3 @@
+C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam\GameJam.Build.cs
+C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJam.Target.cs
+C:\Users\Jonny\Documents\GitHub\LightSpeedZephyr\GameJam\Source\GameJamEditor.Target.cs
